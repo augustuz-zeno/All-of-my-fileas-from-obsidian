@@ -6,7 +6,7 @@
 ---
 
 **Что внутри:**
-`Obsidian` • `Zettelkasten` • `Knowledge Management`
+`Уроки Ustudy` • `Курсы HTB` • `Курс TMC`
 
 **Toolbox**
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
