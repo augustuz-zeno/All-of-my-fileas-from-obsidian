@@ -12,7 +12,7 @@ B) Defined (To state the exact meaning of something)
 C) Exhibited (To show a quality, sign, or emoting; to display)
 D) Confirmed (To establish the truth or correctness of something)
 C is correct because **`demonstrate`** is synonym for **`exhibited`**
-![[Pasted image 20260510235532.png]]
+![[Pasted image 20260510235532 1.png]]
 A) reuse (To recycle)
 B) imitation (A copy some of something)
 C) supply (A stock or amount of something)
